@@ -13,6 +13,6 @@
 ## 🎨 Características Técnicas
 
 ## 👨🏽‍💻 Desarrollador
-- [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
+**- [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode**
 
 ## 📄 Notas del Proyecto
