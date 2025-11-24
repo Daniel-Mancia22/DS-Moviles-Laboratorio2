@@ -13,6 +13,8 @@
 ## 🎨 Características Técnicas
 
 ## 👨🏽‍💻 Desarrollador
-**- [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode**
+- [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
 
 ## 📄 Notas del Proyecto
+- **Propósito Académico:** Desarrollado para el segundo laboratorio de "Desarrollo de Aplicaciones para Dispositivos Móviles"
+- **Base Sólida:** Código estructurado para futuras mejoras y funcionalidades adicionales
