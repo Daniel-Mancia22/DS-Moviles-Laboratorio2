@@ -1,4 +1,7 @@
-## Descripcion
+# DM - bMusic 🎵
+
+## 📱 Descripción
+DM - bMusic es una aplicación de streaming musical que ofrece una experiencia intuitiva para los amantes de la música. La aplicación incluye autenticación de usuarios, gestión de perfiles, exploración de playlists y un reproductor de música integrado.
 
 ## 🎯Funcionalidades
   
@@ -10,7 +13,20 @@
 - **React Native** - Desarrollo nativo con JavaScript
 
 
-## 🎨 Características Técnicas
+## 📊 Características del Reproductor
+
+- **Controles básicos:** Play, Pause, Next, Previous
+- Barra de progreso visual
+- Tiempo transcurrido y total
+- **Información de canción:** título, artista, álbum
+- Album art con diseño atractivo
+
+## 🔒 Seguridad
+
+- Tokens JWT para autenticación
+- Validación de permisos en cada pantalla
+- Manejo seguro de credenciales
+- Logout automático en tokens expirados
 
 ## 👨🏽‍💻 Desarrollador
 - [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
