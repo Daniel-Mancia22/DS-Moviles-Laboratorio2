@@ -31,6 +31,18 @@ DM - bMusic es una aplicación de streaming musical que ofrece una experiencia i
 - **@expo/vector-icons** - Iconografía consistente
 - **React Native** - Desarrollo nativo con JavaScript
 
+## 🚀 Flujo de la Aplicación
+
+### Primer Uso
+- Pantalla de Bienvenida → Presentación de la app
+- Registro/Login → Crear cuenta o iniciar sesión
+- Perfil → Visualización de datos de usuario y playlists
+
+### Usuario Autenticado
+- Lista de Playlists → Navegación desde el perfil
+- Detalle de Playlist → Canciones disponibles
+- Reproductor → Control de reproducción musical
+
 ## 📊 Características del Reproductor
 
 - **Controles básicos:** Play, Pause, Next, Previous
