@@ -26,10 +26,20 @@ DM - bMusic es una aplicación de streaming musical que ofrece una experiencia i
   
 ## 🛠 Tecnologías Utilizadas
 
-- **Expo** - Framework para desarrollo móvil
-- **React Navigation** - Navegación (Drawer, Tab, Stack)
-- **@expo/vector-icons** - Iconografía consistente
-- **React Native** - Desarrollo nativo con JavaScript
+### Frontend 📲
+- React Native - Framework para desarrollo móvil
+- Expo - Plataforma para desarrollo React Native
+- React Navigation - Navegación (Stack Navigator)
+- @expo/vector-icons - Iconografía consistente
+- Axios - Cliente HTTP para APIs
+
+### Almacenamiento 🗄️
+- AsyncStorage - Almacenamiento local persistente
+- Expo ImagePicker - Selección de imágenes de galería
+
+### Backend 🌐
+- API REST - Comunicación con servidor externo
+- Autenticación JWT - Manejo seguro de sesiones
 
 ## 🚀 Flujo de la Aplicación
 
